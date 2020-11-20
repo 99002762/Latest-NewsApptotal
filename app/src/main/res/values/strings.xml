@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" >DailyNews</string>
+    <string name="uname">Username</string>
+    <string name="upass">Password</string>
+    <string name="rpass">Remember Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>

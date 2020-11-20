@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" >दैनिक समाचार</string>
+    <string name="uname">उपयोगकर्ता नाम</string>
+    <string name="upass">पासवर्ड</string>
+    <string name="rpass">पासवर्ड याद रखें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्टर करें</string>
+</resources>
