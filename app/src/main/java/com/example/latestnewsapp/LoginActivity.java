@@ -59,6 +59,7 @@ public class LoginActivity extends AppCompatActivity {
                 String subtitle = pwdEditText.getText().toString();
                 if(!title.isEmpty()) {
                     dbAccessObj.createRow(title, subtitle);
+                    Toast.makeText(this, "Registered Successfully continue login ", Toast.LENGTH_SHORT).show();
                 }
                 else{
                     Toast.makeText(this, "Kindly Enter Username & Password", Toast.LENGTH_SHORT).show();
